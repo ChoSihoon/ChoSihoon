@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <img src="assets/header.svg" width="100%" alt="Sihoon Cho - Software Engineer, Backend Cloud DevOps">
 
-<br>
-
 ## ❖ About Me
 
 **A backend-focused developer who builds reliable, well-structured servers.**<br>
