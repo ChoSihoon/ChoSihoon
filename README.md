@@ -3,6 +3,8 @@
 
 <br>
 
+## ❖ About Me
+
 **A backend-focused developer who builds reliable, well-structured servers.**<br>
 Works mainly across the Java/Spring and Python ecosystems, and is comfortable handling the frontend when needed.
 
@@ -16,8 +18,6 @@ Works mainly across the Java/Spring and Python ecosystems, and is comfortable ha
 - 깔끔하고 테스트 가능한 API와 유지보수하기 좋은 구조를 고민합니다
 - 기능을 백엔드부터 배포까지 끝까지 책임집니다
 - 새로운 기술도 빠르게 익혀 적용합니다
-
----
 
 ## ❖ Tech Stack
 
@@ -149,8 +149,6 @@ Works mainly across the Java/Spring and Python ecosystems, and is comfortable ha
 
 </div>
 
----
-
 ## ❖ Studying & Exploring & Revisiting
 
 <sub>Picking up now, or used before and quick to get back up to speed.</sub>
@@ -204,8 +202,6 @@ Works mainly across the Java/Spring and Python ecosystems, and is comfortable ha
 
 </div>
 
----
-
 ## ❖ GitHub Activity
 
 <p align="center">
@@ -214,10 +210,8 @@ Works mainly across the Java/Spring and Python ecosystems, and is comfortable ha
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ChoSihoon&theme=ambient_gradient&hide_border=true" alt="GitHub Streak">
+  <img height="170" src="https://streak-stats.demolab.com/?user=ChoSihoon&theme=ambient_gradient&hide_border=true" alt="GitHub Streak">
 </p>
-
----
 
 ## ❖ Contact
 
