@@ -3,18 +3,20 @@
 
 ## ❖ About Me
 
-**A backend-focused developer who builds reliable, well-structured servers.**<br>
-Works mainly across the Java/Spring and Python ecosystems, and is comfortable handling the frontend when needed.
+**A backend developer who builds reliable servers and runs them in the cloud.**<br>
+Works mainly across the Java/Spring and Python ecosystems, and carries each service from API design through cloud deployment and operations.
 
 - Clean, testable APIs and maintainable architecture
-- Owning features end to end, from backend to deployment
+- Cloud-native infrastructure on AWS/GCP with Docker
+- CI/CD pipelines, observability, and automation that keep services running
 - A fast grip on new technologies
 
-**안정적이고 잘 짜인 서버를 만드는 백엔드 중심 개발자입니다.**<br>
-실전 경험을 바탕으로 Java/Spring과 Python을 주로 다루며, 필요할 땐 프론트엔드까지 직접 구현합니다.
+**안정적인 서버를 만들고 클라우드에서 운영하는 백엔드 개발자입니다.**<br>
+Java/Spring과 Python을 주로 다루며, API 설계부터 클라우드 배포와 운영까지 서비스를 끝까지 책임집니다.
 
 - 깔끔하고 테스트 가능한 API와 유지보수하기 좋은 구조를 고민합니다
-- 기능을 백엔드부터 배포까지 끝까지 책임집니다
+- AWS/GCP 위에서 Docker 기반의 클라우드 네이티브 인프라를 구축합니다
+- CI/CD 파이프라인과 모니터링, 자동화로 안정적인 운영 환경을 만듭니다
 - 새로운 기술도 빠르게 익혀 적용합니다
 
 ## ❖ Tech Stack
